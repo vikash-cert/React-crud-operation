@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-crud-operation/static/css/main.c81f6e66.css",
+    "main.js": "/React-crud-operation/static/js/main.d1aed2a1.js",
+    "static/js/787.eb169856.chunk.js": "/React-crud-operation/static/js/787.eb169856.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/React-crud-operation/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/React-crud-operation/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/React-crud-operation/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/React-crud-operation/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/React-crud-operation/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/React-crud-operation/index.html",
+    "main.c81f6e66.css.map": "/React-crud-operation/static/css/main.c81f6e66.css.map",
+    "main.d1aed2a1.js.map": "/React-crud-operation/static/js/main.d1aed2a1.js.map",
+    "787.eb169856.chunk.js.map": "/React-crud-operation/static/js/787.eb169856.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c81f6e66.css",
+    "static/js/main.d1aed2a1.js"
+  ]
+}
